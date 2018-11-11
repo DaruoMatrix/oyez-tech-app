@@ -1,0 +1,6 @@
+
+export const FETCH_ALBUMS='FETCH_ALBUMS';
+export const FETCH_PHOTOS ='FETCH_PHOTOS';
+export const ADD_WISHLIST ='ADD_WISHLIST';
+export const ALL_WISHLIST ='ALL_WISHLIST';
+
